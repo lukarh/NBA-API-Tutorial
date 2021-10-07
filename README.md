@@ -2,7 +2,7 @@
 
 This README is an overview of a NBA API Tutorial in this repository, which was created for not only my academic project in Practical Data science, but also for people who are looking to learn how to use the NBA API. Please download or open the Tutorial.ipynb file to gain access to the tutorial.
 
-![alt text](blob:https://imgur.com/d7c8ca9d-66fc-4c20-848f-508b5a54920e)
+![api](https://user-images.githubusercontent.com/65103724/136407672-7bf6f56f-dc29-49d4-8d1f-d3ddf9c9d28a.png)
 
 ### Table of Contents in the Notebook
 - Introduction
