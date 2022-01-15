@@ -1,6 +1,6 @@
 # NBA API Tutorial
 
-This README is an overview of a NBA API Tutorial in this repository, which was created for not only my academic project in Practical Data science, but also for people who are looking to learn how to use the NBA API. Please download or open the Tutorial.ipynb file to gain access to the tutorial.
+This README is an overview of the NBA API Tutorial Notebook in this repository, which was created for not only my academic project in Practical Data Science, but also for people who are looking to learn how to use the NBA API. Please download or open the Tutorial.ipynb file to gain access to the tutorial.
 
 ![api](https://user-images.githubusercontent.com/65103724/136407672-7bf6f56f-dc29-49d4-8d1f-d3ddf9c9d28a.png)
 
